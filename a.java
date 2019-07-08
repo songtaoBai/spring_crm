@@ -3,3 +3,5 @@
         request.setAttribute("deptList",all);
         return "/deptlist";
     }
+    
+    alert(1)
